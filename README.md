@@ -1,0 +1,2 @@
+# dsc106
+Data visualization helps explore and interpret data through interaction. This course introduces the principles, techniques and algorithms for creating effective visualizations. The course draws on knowledge from several disciplines including computer graphics, human-computer interaction, cognitive psychology, design, and statistical graphics and synthesizes relevant ideas.  Students will design visualization systems using D3 or other web-based software and evaluate their effectiveness.
