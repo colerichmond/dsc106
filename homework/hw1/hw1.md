@@ -82,7 +82,11 @@ ___Cole Richmond___
 
 #### Line Chart:
 
-![Screenshot](Highcharts/LineChart/linechart.png)
+![Screenshot](Highcharts/LineChart/applied.png)
+
+![Screenshot](Highcharts/LineChart/admitted.png)
+
+![Screenshot](Highcharts/LineChart/enrolled.png)
 
 #### Pie Chart:
 
