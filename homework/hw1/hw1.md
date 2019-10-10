@@ -32,7 +32,7 @@ ___Cole Richmond___
 
 ![Screenshot](infogram/infogram_applied.png)
 
-![Screenshot](infogram/inforgram_admitted.png)
+![Screenshot](infogram/infogram_admitted.png)
 
 ![Screenshot](infogram/infogram_enrolled.png)
 
@@ -78,8 +78,14 @@ ___Cole Richmond___
 
 #### Bar Chart:
 
+![Screenshot](Highcharts/BarChart/barchart.png)
+
 #### Line Chart:
 
+![Screenshot](Highcharts/LineChart/linechart.png)
+
 #### Pie Chart:
+
+![Screenshot](Highcharts/PieChart/piechart.png)
 
 #### Analysis:
