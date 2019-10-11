@@ -108,3 +108,7 @@ charts, bar graphs, and the appropriate drill-downs are easy to develop and depl
 helps a lot when needing to develop a data visualization solution for non-technical
 people. However, the lack of customizability makes it difficult to create specialized
 visualizations in a pinch.
+
+#### Comparative Analysis:
+
+![Screenshot](comparative_analysis.png)
