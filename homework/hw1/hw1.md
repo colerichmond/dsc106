@@ -4,6 +4,10 @@
 
 ___Cole Richmond___
 
+#### GitHub:
+
+https://github.com/colerichmond/dsc106/tree/master/homework/hw1
+
 # Google G Suite
 
 #### Bar Chart:
