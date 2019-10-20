@@ -6,4 +6,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Homework
 
-- [HW2](./homework/hw2/hw2.md).
+- [HW2](./homework/hw2/hw2.md)
