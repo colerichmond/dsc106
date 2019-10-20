@@ -8,5 +8,9 @@ products without animals. These plant-based burgers are becoming more common not
 because they taste good. Rather than trying to convert meat-eaters, companies are trying to appeal to them. A recent article 
 from Vox, when describing the recent explosion of Burger King's Impossible Burger, stated:
 
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+> *"When the Impossible Burger launched quietly in upscale restaurants a few years ago, the coverage was mostly positive, with 
+some reviewers even calling it the future of meat."*
+
+Since it was introduced in October of 2018 the Impossible Burger has become a popular alternative to classic sources of 
+protein like beef, chicken, and fish. While the promotion of the meat-replacement product inevitabley drew in first-time users 
+looking to form their own opinions, the initial popularity was short-lived in many areas. 
