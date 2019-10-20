@@ -15,6 +15,6 @@ Since it was introduced in October of 2018 the Impossible Burger has become a po
 protein like beef, chicken, and fish. While the promotion of the meat-replacement product inevitabley drew in first-time users 
 looking to form their own opinions, sales fluctuated afterward which we'll see later. You can see below that our hamburger 
 sales fell well below the nationwide average in October of 2018 falling from $7,922,921 to $6,781,234; a net loss of 
-$1,141,687. Chicken and Fish Fillet sales were also down, $465,210 and $266,337 respectively. 
+$1,141,687. Chicken and Fish Fillet sales were also down from September to October, $465,210 and $266,337 respectively. 
 
 ![Screenshot](imgs/nationwide.png)
