@@ -41,6 +41,8 @@ Fish fillets also see a spike in sales on Fridays, but tend to drop on Saturday 
 
 ![Screenshot](imgs/fish_weekday.png)
 
+&nbsp;&nbsp;&nbsp;&nbsp;With meat-based sandwiches selling best in the colder months of the year, it would be in our best interest to push a new plant-based product during the summer months on June, July, and August. We want to keep providing hamburgers and chicken fillets when people want them, but we must compete with the demand for a plant-based during the middle of the year. 
 
+&nbsp;&nbsp;&nbsp;&nbsp;Additonally, our products tend to sell very well during the weekend. If we could find a way to capitalize on our lack of sales during the week with the introduction of a vegan-friendly burger I believe we’d be very pleased with the results.
 
-[here](https://plot.ly/~colerichmond/13/impossible-burger-report/)
+If you’d like to interact with the charts I showed earlier and print them out for your shareholder meeting later this week, you can find them [here](https://plot.ly/~colerichmond/13/impossible-burger-report/).
