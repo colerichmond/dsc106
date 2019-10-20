@@ -13,4 +13,4 @@ some reviewers even calling it the future of meat."*
 
 Since it was introduced in October of 2018 the Impossible Burger has become a popular alternative to classic sources of 
 protein like beef, chicken, and fish. While the promotion of the meat-replacement product inevitabley drew in first-time users 
-looking to form their own opinions, the initial popularity was short-lived in many areas. 
+looking to form their own opinions, the initial popularity was short-lived in some areas. 
